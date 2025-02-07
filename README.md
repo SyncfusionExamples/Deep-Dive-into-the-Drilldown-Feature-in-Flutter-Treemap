@@ -1,7 +1,7 @@
 # Deep Dive into the Drilldown Feature in Flutter Treemap
 A quick-start example that helps you customize the Syncfusion® Flutter Treemap widget. You will learn how to add multiple treemap levels with breadcrumbs and display a circular plus icon indicator to show the availability of additional levels within the tiles.
 
-Watch the video: Coming soon...
+Watch the video: https://www.syncfusion.com/tutorial-videos/flutter/treemap?title=deep-dive-into-the-drilldown-feature-in-flutter-treemap 
 
 Documentation: https://help.syncfusion.com/flutter/treemap/color-customization
 
